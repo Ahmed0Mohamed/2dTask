@@ -1,0 +1,16 @@
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\obj\Debug\net5.0\2dTask.csprojAssemblyReference.cache
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\obj\Debug\net5.0\2dTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\obj\Debug\net5.0\2dTask.AssemblyInfoInputs.cache
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\obj\Debug\net5.0\2dTask.AssemblyInfo.cs
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\obj\Debug\net5.0\2dTask.csproj.CoreCompileInputs.cache
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\bin\Debug\net5.0\2dTask.exe
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\bin\Debug\net5.0\2dTask.deps.json
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\bin\Debug\net5.0\2dTask.runtimeconfig.json
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\bin\Debug\net5.0\2dTask.runtimeconfig.dev.json
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\bin\Debug\net5.0\2dTask.dll
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\bin\Debug\net5.0\ref\2dTask.dll
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\bin\Debug\net5.0\2dTask.pdb
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\obj\Debug\net5.0\2dTask.dll
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\obj\Debug\net5.0\ref\2dTask.dll
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\obj\Debug\net5.0\2dTask.pdb
+D:\Studying\Studying\level three\2nd term\graphics\Mostafa\2dTask\2dTask\obj\Debug\net5.0\2dTask.genruntimeconfig.cache
